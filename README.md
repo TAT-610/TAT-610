@@ -11,7 +11,7 @@
 - 💻 Experienced in **React, Next.js, React Native, and TypeScript**
 - 🚀 Interested in **AI-integrated web applications** and **real-time systems**
 - 🤝 Open to collaborations on **frontend and UI/UX projects**
-- 📧 Contact me: **your_email@example.com**  
+- 📧 Contact me: **trananhtuyet0610@gmail.com**  
 
 ---
 
